@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = ""
+base_url = "https://hardikpedia.github.io/portfolio/"
 
 title = "Hardik"
 description = "Minimalism | Pensive | Tennis"
